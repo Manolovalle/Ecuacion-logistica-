@@ -1,2 +1,2 @@
 # Ecuacion-logistica-
-Este código construye el diagrama de feingenbaum  mediante python.
+Este código construye el diagrama de feingenbaum  en Matlab.
